@@ -186,7 +186,7 @@ if __name__ == "__main__":
                         default=2,
                         help='Retrieval step')
     parser.add_argument('--limit',
-                        default=2,
+                        default=30,
                         help='evidence num')
     args = parser.parse_args()
 
