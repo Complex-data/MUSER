@@ -1,0 +1,4 @@
+Regarding datasets, we offer the following suggestions:
+1. The PolitiFact and GossipCop datasets were sourced using the FakeNewsNet tool, as described in the research by 
+Kai Shu, Deepak Mahudeswaran, Suhang Wang, Dongwon Lee, and Huan Liu in their 2020 paper titled "Fakenewsnet: A Data Repository with News Content, Social Context, and Spatiotemporal Information for Studying Fake News on Social Media," published in Big Data, Volume 8, Issue 3, pages 171–188.
+2. To validate the efficacy of our method, we have also utilized the LIAR dataset, which is accessible here https://www.cs.ucsb.edu/~william/data/liar_dataset.zip. Additionally, we employed the Fakeddit dataset, available on https://github.com/entitize/Fakeddit.
